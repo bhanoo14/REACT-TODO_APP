@@ -1,0 +1,13 @@
+    1  git status
+    2  git init
+    3  git add .
+    4  git status
+    5  git commit -m "first commit"
+    6  git branch -M main
+    7  git remote add origin https://github.com/bhanoo17/REACT-TODO_APP.git
+    8  git push -u origin main
+    9  git push
+   10  git push -u origin main
+   11  git status
+   12  history
+   13  history >> index.txt
